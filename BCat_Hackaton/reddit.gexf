@@ -1,0 +1,1041 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-09-04">
+    <creator>NetworkX 2.8.6</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="long" />
+    </attributes>
+    <nodes>
+      <node id="pvoberstein" label="pvoberstein">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bellingcat" label="bellingcat">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="reynvann65" label="reynvann65">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="CASBT_OSINT" label="CASBT_OSINT">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ItsAllTrumpedUp" label="ItsAllTrumpedUp">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="neobaathistluddite" label="neobaathistluddite">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="gianfiore" label="gianfiore">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Supernumerator64" label="Supernumerator64">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bearic1" label="bearic1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="green_red_green" label="green_red_green">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="EccentricDolphin" label="EccentricDolphin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="alasdair8" label="alasdair8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Exotic_Elderberry_24" label="Exotic_Elderberry_24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="DaanGFX" label="DaanGFX">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ThanksToDenial" label="ThanksToDenial">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="El_Don_94" label="El_Don_94">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Arola_Morre" label="Arola_Morre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="EvilMonkeySlayer" label="EvilMonkeySlayer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="US_Hiker" label="US_Hiker">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bg0203" label="bg0203">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="MarjoryWaspFanny" label="MarjoryWaspFanny">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="WhippetNL" label="WhippetNL">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="PriestAdsky" label="PriestAdsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="TaylorLorenzTransfor" label="TaylorLorenzTransfor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="TypicalPakeha" label="TypicalPakeha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Hetoko" label="Hetoko">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Brown_Moses" label="Brown_Moses">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="CalvinKleinBottle" label="CalvinKleinBottle">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="CodeMunke" label="CodeMunke">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="HLMenckenFan" label="HLMenckenFan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Crawsh" label="Crawsh">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="D9I4" label="D9I4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="EntireNetwork" label="EntireNetwork">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Even_Way_2256" label="Even_Way_2256">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="GrayF27" label="GrayF27">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Thcrtgrphr" label="Thcrtgrphr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ContuberniumSPQR" label="ContuberniumSPQR">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jurryaany" label="Jurryaany">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Imperfectlynperfect" label="Imperfectlynperfect">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ItsMelinaBG" label="ItsMelinaBG">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kremlinologist1991" label="Kremlinologist1991">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="LulzTigre" label="LulzTigre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="NeedWittyUsername" label="NeedWittyUsername">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nortvik" label="Nortvik">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Practical-Month-3799" label="Practical-Month-3799">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Prune2000" label="Prune2000">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Snagsy1980" label="Snagsy1980">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="AccomplishedPin4477" label="AccomplishedPin4477">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Artie_at_the_Ocean" label="Artie_at_the_Ocean">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Beginning_Window_770" label="Beginning_Window_770">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="nsfw_celbs" label="nsfw_celbs">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Altruistic_Air3649" label="Altruistic_Air3649">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="minus_28_and_falling" label="minus_28_and_falling">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="alpaca_andina" label="alpaca_andina">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="commandergirl" label="commandergirl">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dieyoufool3" label="dieyoufool3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="an0nim0us101" label="an0nim0us101">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="4Nails" label="4Nails">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="harry874" label="harry874">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="initialconfusion1" label="initialconfusion1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="jsdaalder" label="jsdaalder">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="marsianer" label="marsianer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="maszekos" label="maszekos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="neur0net" label="neur0net">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="AggravatingFix4413" label="AggravatingFix4413">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="retnuhdoghctib" label="retnuhdoghctib">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="saka-mulia" label="saka-mulia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="securitybreach" label="securitybreach">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="semaj009" label="semaj009">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="strumenle" label="strumenle">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="taxtonia" label="taxtonia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="makINtruck" label="makINtruck">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Still_Horror" label="Still_Horror">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="TravisColeTravels" label="TravisColeTravels">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="GrandOldPharisees" label="GrandOldPharisees">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="vulpes___vulpes" label="vulpes___vulpes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="NorthKoreaNews" label="NorthKoreaNews">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="shoujokakumeiutena" label="shoujokakumeiutena">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="wookieepedia" label="wookieepedia">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="JapanPolitics" label="JapanPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="AO3" label="AO3">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Kyrgyzstan" label="Kyrgyzstan">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="osirisrex" label="osirisrex">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Miranda_Lawson" label="Miranda_Lawson">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="PennsylvaniaPolitics" label="PennsylvaniaPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="kuvira" label="kuvira">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="minnesotapolitics" label="minnesotapolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="vermontpolitics" label="vermontpolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="IndiaCoronavirus" label="IndiaCoronavirus">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="KirbyMusic" label="KirbyMusic">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Khan" label="Khan">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="michiganpolitics" label="michiganpolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Azula" label="Azula">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Oregon_Politics" label="Oregon_Politics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="amazonnews" label="amazonnews">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="navalny" label="navalny">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bennu" label="Bennu">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="NebraskaPolitics" label="NebraskaPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="John_McAfee" label="John_McAfee">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="IdahoPolitics" label="IdahoPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="BenCarson" label="BenCarson">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Iqaluit" label="Iqaluit">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="IndianaPolitics" label="IndianaPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="HepatitisC" label="HepatitisC">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Iceland" label="Iceland">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Hope_Hicks" label="Hope_Hicks">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="HawaiiPolitics" label="HawaiiPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="HalkBank" label="HalkBank">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Guinea" label="Guinea">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="JohnBolton" label="JohnBolton">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="TheSeychelles" label="TheSeychelles">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="KentuckyPolitics" label="KentuckyPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Kyoto" label="Kyoto">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="LinManuelMiranda" label="LinManuelMiranda">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MikePence" label="MikePence">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MississippiPolitics" label="MississippiPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MontanaPolitics" label="MontanaPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="NJPolitics" label="NJPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="NewHampshirePolitics" label="NewHampshirePolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="AfghanConflict" label="AfghanConflict">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SeattleStorm" label="SeattleStorm">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Culverts" label="Culverts">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="FrederickDouglass" label="FrederickDouglass">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Twitter" label="Twitter">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="GhislaineMaxwell" label="GhislaineMaxwell">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="maltapolitics" label="maltapolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="EricTrump" label="EricTrump">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="DelawarePolitics" label="DelawarePolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="nealstephenson" label="nealstephenson">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="therock" label="therock">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="wisconsinpolitics" label="wisconsinpolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="weirdal" label="weirdal">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="californiapolitics" label="californiapolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="chinesepolitics" label="chinesepolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="fivethirtyeight" label="fivethirtyeight">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="grimace" label="grimace">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="vanuatu" label="vanuatu">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="uBlockOrigin" label="uBlockOrigin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="hajj" label="hajj">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="innermongolia" label="innermongolia">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="northdakotapolitics" label="northdakotapolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="jameswebb" label="jameswebb">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="sun" label="sun">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="sukka" label="sukka">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="AlaskaPolitics" label="AlaskaPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="sailormoon" label="sailormoon">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="regeneron" label="regeneron">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Zeldamusic" label="Zeldamusic">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="nato" label="nato">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="alabamapolitics" label="alabamapolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SouthDakotaPolitics" label="SouthDakotaPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="WestVirginiaPolitics" label="WestVirginiaPolitics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="USSS" label="USSS">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Rhea" label="Rhea">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="politics" label="politics">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="CampingGear" label="CampingGear">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="OutOfTheLoop" label="OutOfTheLoop">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="vandwellers" label="vandwellers">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="science" label="science">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="byebyejob" label="byebyejob">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="PNWhiking" label="PNWhiking">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Protests2020" label="Protests2020">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="trashy" label="trashy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Smallclaims" label="Smallclaims">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SeattleWA" label="SeattleWA">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Tent" label="Tent">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="conspiracy_commons" label="conspiracy_commons">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="itookapicture" label="itookapicture">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="PoliticalHumor" label="PoliticalHumor">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="vagabond" label="vagabond">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="worldnews" label="worldnews">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="pvoberstein" target="bellingcat" id="0" weight="3" />
+      <edge source="pvoberstein" target="NorthKoreaNews" id="1" weight="37" />
+      <edge source="pvoberstein" target="shoujokakumeiutena" id="2" weight="18" />
+      <edge source="pvoberstein" target="wookieepedia" id="3" weight="16" />
+      <edge source="pvoberstein" target="JapanPolitics" id="4" weight="14" />
+      <edge source="pvoberstein" target="AO3" id="5" weight="8" />
+      <edge source="pvoberstein" target="pvoberstein" id="6" weight="6" />
+      <edge source="pvoberstein" target="Kyrgyzstan" id="7" weight="4" />
+      <edge source="pvoberstein" target="osirisrex" id="8" weight="4" />
+      <edge source="pvoberstein" target="Miranda_Lawson" id="9" weight="4" />
+      <edge source="pvoberstein" target="PennsylvaniaPolitics" id="10" weight="3" />
+      <edge source="pvoberstein" target="kuvira" id="11" weight="3" />
+      <edge source="pvoberstein" target="minnesotapolitics" id="12" weight="2" />
+      <edge source="pvoberstein" target="vermontpolitics" id="13" weight="2" />
+      <edge source="pvoberstein" target="IndiaCoronavirus" id="14" weight="2" />
+      <edge source="pvoberstein" target="KirbyMusic" id="15" weight="2" />
+      <edge source="pvoberstein" target="Khan" id="16" weight="2" />
+      <edge source="pvoberstein" target="michiganpolitics" id="17" weight="2" />
+      <edge source="pvoberstein" target="Azula" id="18" weight="2" />
+      <edge source="pvoberstein" target="Oregon_Politics" id="19" weight="2" />
+      <edge source="pvoberstein" target="amazonnews" id="20" weight="2" />
+      <edge source="pvoberstein" target="navalny" id="21" weight="2" />
+      <edge source="pvoberstein" target="Bennu" id="22" weight="2" />
+      <edge source="pvoberstein" target="NebraskaPolitics" id="23" weight="2" />
+      <edge source="pvoberstein" target="John_McAfee" id="24" weight="1" />
+      <edge source="pvoberstein" target="IdahoPolitics" id="25" weight="1" />
+      <edge source="pvoberstein" target="BenCarson" id="26" weight="1" />
+      <edge source="pvoberstein" target="Iqaluit" id="27" weight="1" />
+      <edge source="pvoberstein" target="IndianaPolitics" id="28" weight="1" />
+      <edge source="pvoberstein" target="HepatitisC" id="29" weight="1" />
+      <edge source="pvoberstein" target="Iceland" id="30" weight="1" />
+      <edge source="pvoberstein" target="Hope_Hicks" id="31" weight="1" />
+      <edge source="pvoberstein" target="HawaiiPolitics" id="32" weight="1" />
+      <edge source="pvoberstein" target="HalkBank" id="33" weight="1" />
+      <edge source="pvoberstein" target="Guinea" id="34" weight="1" />
+      <edge source="pvoberstein" target="JohnBolton" id="35" weight="1" />
+      <edge source="pvoberstein" target="TheSeychelles" id="36" weight="1" />
+      <edge source="pvoberstein" target="KentuckyPolitics" id="37" weight="1" />
+      <edge source="pvoberstein" target="Kyoto" id="38" weight="1" />
+      <edge source="pvoberstein" target="LinManuelMiranda" id="39" weight="1" />
+      <edge source="pvoberstein" target="MikePence" id="40" weight="1" />
+      <edge source="pvoberstein" target="MississippiPolitics" id="41" weight="1" />
+      <edge source="pvoberstein" target="MontanaPolitics" id="42" weight="1" />
+      <edge source="pvoberstein" target="NJPolitics" id="43" weight="1" />
+      <edge source="pvoberstein" target="NewHampshirePolitics" id="44" weight="1" />
+      <edge source="pvoberstein" target="AfghanConflict" id="45" weight="1" />
+      <edge source="pvoberstein" target="SeattleStorm" id="46" weight="1" />
+      <edge source="pvoberstein" target="Culverts" id="47" weight="1" />
+      <edge source="pvoberstein" target="FrederickDouglass" id="48" weight="1" />
+      <edge source="pvoberstein" target="Twitter" id="49" weight="1" />
+      <edge source="pvoberstein" target="GhislaineMaxwell" id="50" weight="1" />
+      <edge source="pvoberstein" target="maltapolitics" id="51" weight="1" />
+      <edge source="pvoberstein" target="EricTrump" id="52" weight="1" />
+      <edge source="pvoberstein" target="DelawarePolitics" id="53" weight="1" />
+      <edge source="pvoberstein" target="nealstephenson" id="54" weight="1" />
+      <edge source="pvoberstein" target="therock" id="55" weight="1" />
+      <edge source="pvoberstein" target="wisconsinpolitics" id="56" weight="1" />
+      <edge source="pvoberstein" target="weirdal" id="57" weight="1" />
+      <edge source="pvoberstein" target="californiapolitics" id="58" weight="1" />
+      <edge source="pvoberstein" target="chinesepolitics" id="59" weight="1" />
+      <edge source="pvoberstein" target="fivethirtyeight" id="60" weight="1" />
+      <edge source="pvoberstein" target="grimace" id="61" weight="1" />
+      <edge source="pvoberstein" target="vanuatu" id="62" weight="1" />
+      <edge source="pvoberstein" target="uBlockOrigin" id="63" weight="1" />
+      <edge source="pvoberstein" target="hajj" id="64" weight="1" />
+      <edge source="pvoberstein" target="innermongolia" id="65" weight="1" />
+      <edge source="pvoberstein" target="northdakotapolitics" id="66" weight="1" />
+      <edge source="pvoberstein" target="jameswebb" id="67" weight="1" />
+      <edge source="pvoberstein" target="sun" id="68" weight="1" />
+      <edge source="pvoberstein" target="sukka" id="69" weight="1" />
+      <edge source="pvoberstein" target="AlaskaPolitics" id="70" weight="1" />
+      <edge source="pvoberstein" target="sailormoon" id="71" weight="1" />
+      <edge source="pvoberstein" target="regeneron" id="72" weight="1" />
+      <edge source="pvoberstein" target="Zeldamusic" id="73" weight="1" />
+      <edge source="pvoberstein" target="nato" id="74" weight="1" />
+      <edge source="pvoberstein" target="alabamapolitics" id="75" weight="1" />
+      <edge source="pvoberstein" target="SouthDakotaPolitics" id="76" weight="1" />
+      <edge source="pvoberstein" target="WestVirginiaPolitics" id="77" weight="1" />
+      <edge source="pvoberstein" target="USSS" id="78" weight="1" />
+      <edge source="pvoberstein" target="Rhea" id="79" weight="1" />
+      <edge source="bellingcat" target="reynvann65" id="80" weight="14" />
+      <edge source="bellingcat" target="CASBT_OSINT" id="81" weight="11" />
+      <edge source="bellingcat" target="ItsAllTrumpedUp" id="82" weight="10" />
+      <edge source="bellingcat" target="neobaathistluddite" id="83" weight="9" />
+      <edge source="bellingcat" target="gianfiore" id="84" weight="7" />
+      <edge source="bellingcat" target="Supernumerator64" id="85" weight="5" />
+      <edge source="bellingcat" target="bearic1" id="86" weight="4" />
+      <edge source="bellingcat" target="green_red_green" id="87" weight="4" />
+      <edge source="bellingcat" target="EccentricDolphin" id="88" weight="3" />
+      <edge source="bellingcat" target="alasdair8" id="89" weight="3" />
+      <edge source="bellingcat" target="Exotic_Elderberry_24" id="90" weight="2" />
+      <edge source="bellingcat" target="DaanGFX" id="91" weight="2" />
+      <edge source="bellingcat" target="ThanksToDenial" id="92" weight="2" />
+      <edge source="bellingcat" target="El_Don_94" id="93" weight="2" />
+      <edge source="bellingcat" target="Arola_Morre" id="94" weight="2" />
+      <edge source="bellingcat" target="EvilMonkeySlayer" id="95" weight="2" />
+      <edge source="bellingcat" target="US_Hiker" id="96" weight="2" />
+      <edge source="bellingcat" target="bg0203" id="97" weight="2" />
+      <edge source="bellingcat" target="MarjoryWaspFanny" id="98" weight="2" />
+      <edge source="bellingcat" target="WhippetNL" id="99" weight="2" />
+      <edge source="bellingcat" target="PriestAdsky" id="100" weight="2" />
+      <edge source="bellingcat" target="TaylorLorenzTransfor" id="101" weight="2" />
+      <edge source="bellingcat" target="TypicalPakeha" id="102" weight="2" />
+      <edge source="bellingcat" target="Hetoko" id="103" weight="2" />
+      <edge source="bellingcat" target="Brown_Moses" id="104" weight="1" />
+      <edge source="bellingcat" target="CalvinKleinBottle" id="105" weight="1" />
+      <edge source="bellingcat" target="CodeMunke" id="106" weight="1" />
+      <edge source="bellingcat" target="HLMenckenFan" id="107" weight="1" />
+      <edge source="bellingcat" target="Crawsh" id="108" weight="1" />
+      <edge source="bellingcat" target="D9I4" id="109" weight="1" />
+      <edge source="bellingcat" target="EntireNetwork" id="110" weight="1" />
+      <edge source="bellingcat" target="Even_Way_2256" id="111" weight="1" />
+      <edge source="bellingcat" target="GrayF27" id="112" weight="1" />
+      <edge source="bellingcat" target="Thcrtgrphr" id="113" weight="1" />
+      <edge source="bellingcat" target="ContuberniumSPQR" id="114" weight="1" />
+      <edge source="bellingcat" target="Jurryaany" id="115" weight="1" />
+      <edge source="bellingcat" target="Imperfectlynperfect" id="116" weight="1" />
+      <edge source="bellingcat" target="ItsMelinaBG" id="117" weight="1" />
+      <edge source="bellingcat" target="Kremlinologist1991" id="118" weight="1" />
+      <edge source="bellingcat" target="LulzTigre" id="119" weight="1" />
+      <edge source="bellingcat" target="NeedWittyUsername" id="120" weight="1" />
+      <edge source="bellingcat" target="Nortvik" id="121" weight="1" />
+      <edge source="bellingcat" target="Practical-Month-3799" id="122" weight="1" />
+      <edge source="bellingcat" target="Prune2000" id="123" weight="1" />
+      <edge source="bellingcat" target="Snagsy1980" id="124" weight="1" />
+      <edge source="bellingcat" target="AccomplishedPin4477" id="125" weight="1" />
+      <edge source="bellingcat" target="Artie_at_the_Ocean" id="126" weight="1" />
+      <edge source="bellingcat" target="Beginning_Window_770" id="127" weight="1" />
+      <edge source="bellingcat" target="nsfw_celbs" id="128" weight="1" />
+      <edge source="bellingcat" target="Altruistic_Air3649" id="129" weight="1" />
+      <edge source="bellingcat" target="minus_28_and_falling" id="130" weight="1" />
+      <edge source="bellingcat" target="alpaca_andina" id="131" weight="1" />
+      <edge source="bellingcat" target="commandergirl" id="132" weight="1" />
+      <edge source="bellingcat" target="dieyoufool3" id="133" weight="1" />
+      <edge source="bellingcat" target="an0nim0us101" id="134" weight="1" />
+      <edge source="bellingcat" target="4Nails" id="135" weight="1" />
+      <edge source="bellingcat" target="harry874" id="136" weight="1" />
+      <edge source="bellingcat" target="initialconfusion1" id="137" weight="1" />
+      <edge source="bellingcat" target="jsdaalder" id="138" weight="1" />
+      <edge source="bellingcat" target="marsianer" id="139" weight="1" />
+      <edge source="bellingcat" target="maszekos" id="140" weight="1" />
+      <edge source="bellingcat" target="neur0net" id="141" weight="1" />
+      <edge source="bellingcat" target="AggravatingFix4413" id="142" weight="1" />
+      <edge source="bellingcat" target="retnuhdoghctib" id="143" weight="1" />
+      <edge source="bellingcat" target="saka-mulia" id="144" weight="1" />
+      <edge source="bellingcat" target="securitybreach" id="145" weight="1" />
+      <edge source="bellingcat" target="semaj009" id="146" weight="1" />
+      <edge source="bellingcat" target="strumenle" id="147" weight="1" />
+      <edge source="bellingcat" target="taxtonia" id="148" weight="1" />
+      <edge source="bellingcat" target="makINtruck" id="149" weight="1" />
+      <edge source="bellingcat" target="Still_Horror" id="150" weight="1" />
+      <edge source="bellingcat" target="TravisColeTravels" id="151" weight="1" />
+      <edge source="bellingcat" target="GrandOldPharisees" id="152" weight="1" />
+      <edge source="bellingcat" target="vulpes___vulpes" id="153" weight="1" />
+      <edge source="reynvann65" target="politics" id="154" weight="31" />
+      <edge source="reynvann65" target="CampingGear" id="155" weight="20" />
+      <edge source="reynvann65" target="OutOfTheLoop" id="156" weight="7" />
+      <edge source="reynvann65" target="vandwellers" id="157" weight="4" />
+      <edge source="reynvann65" target="science" id="158" weight="3" />
+      <edge source="reynvann65" target="byebyejob" id="159" weight="3" />
+      <edge source="reynvann65" target="PNWhiking" id="160" weight="3" />
+      <edge source="reynvann65" target="Protests2020" id="161" weight="2" />
+      <edge source="reynvann65" target="trashy" id="162" weight="2" />
+      <edge source="reynvann65" target="Smallclaims" id="163" weight="2" />
+      <edge source="reynvann65" target="SeattleWA" id="164" weight="2" />
+      <edge source="reynvann65" target="Tent" id="165" weight="2" />
+      <edge source="reynvann65" target="conspiracy_commons" id="166" weight="1" />
+      <edge source="reynvann65" target="itookapicture" id="167" weight="1" />
+      <edge source="reynvann65" target="PoliticalHumor" id="168" weight="1" />
+      <edge source="reynvann65" target="vagabond" id="169" weight="1" />
+      <edge source="reynvann65" target="worldnews" id="170" weight="1" />
+    </edges>
+  </graph>
+</gexf>
